@@ -9,7 +9,7 @@ description: Всё о Лаунчере GW.
 {% hint style="success" %}
 Лаунчер устанавливается с официальной станицы GW&#x20;
 
-[клик](https://goodwars.pythonanywhere.com/download)!
+[клик](https://goodwars.pythonanywhere.com/download)
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>блок установки лаунчера</p></figcaption></figure>
@@ -24,6 +24,6 @@ description: Всё о Лаунчере GW.
 НА LINUX МОГУТ БЫТЬ ОШИБКИ!!! При возникновении таких обратитесь к администрации!
 {% endhint %}
 
-#### Инструкция по установке есть на [сайте](https://goodwars.pythonanywhere.com/download)!
+#### Инструкция по установке есть на [сайте](https://goodwars.pythonanywhere.com/download)
 
 ## Интерфейс Лаунчера
