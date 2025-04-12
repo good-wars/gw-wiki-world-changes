@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Главная](README.md)
+* [Лаунчер](launcher.md)
 
 ## Начало <a href="#start" id="start"></a>
 
